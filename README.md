@@ -56,5 +56,5 @@
 # 📊 GitHub Stats:
 <p align="left">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=ubeb&theme=dark" alt="Ubeb's GitHub Stats" /><br/>
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ubeb&theme=dark&layout=compact" alt="Ubeb's Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ubeb&theme=dark&layout=compact&cache_seconds=0" alt="Ubeb's Top Languages" />
 </p>
