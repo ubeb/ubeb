@@ -54,6 +54,7 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ubeb&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ubeb&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ubeb&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ubeb&theme=dark" alt="Ubeb's GitHub Stats" /><br/>
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ubeb&theme=dark&layout=compact" alt="Ubeb's Top Languages" />
+</p>
